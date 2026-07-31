@@ -1,0 +1,9 @@
+term,OR,CI_low,CI_high,p,EPV_warning
+Intercept,2277.24,0.024,219916896.044,0.1868,EPV=2.4 (exploratory -- 12 non-RTP events / 5 covariate df)
+Position_class: big,2.868,0.436,18.845,0.2727,EPV=2.4 (exploratory -- 12 non-RTP events / 5 covariate df)
+Position_class: wing,1.312,0.193,8.9,0.7811,EPV=2.4 (exploratory -- 12 non-RTP events / 5 covariate df)
+dominance: dominant,1.522,0.488,4.745,0.4693,EPV=2.4 (exploratory -- 12 non-RTP events / 5 covariate df)
+Age_at_Injury,0.782,0.465,1.318,0.3564,EPV=2.4 (exploratory -- 12 non-RTP events / 5 covariate df)
+Years_Experience,1.103,0.651,1.869,0.7146,EPV=2.4 (exploratory -- 12 non-RTP events / 5 covariate df)
+MODEL_NOTE,,,,,c-stat=0.797; HL p=0.858; EPV<10 -> exploratory interpretation
+

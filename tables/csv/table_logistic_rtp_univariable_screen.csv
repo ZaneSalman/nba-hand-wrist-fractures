@@ -1,0 +1,9 @@
+predictor,min_p,retained
+Age_at_Injury,0.0059,True
+BMI,0.6481,False
+Position_class,0.0907,True
+Years_Experience,0.0108,True
+Surgery_bool,0.631,False
+dominance,0.1975,True
+fracture_category,,False
+

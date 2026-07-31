@@ -1,0 +1,7 @@
+outcome,surg_summary,cons_summary,test,p,extra
+RTP rate,59/65 (90.8%),44/50 (88.0%),Fisher exact (2x2),0.7608,OR=1.341
+recovery_days,"37.000 [30.000, 53.000] (n=49)","27.500 [13.000, 37.500] (n=40)",Mann-Whitney U,0.0021,
+Delta PER,"1.325 [-1.715, 3.850] (n=50)","1.400 [-0.700, 3.300] (n=37)",Mann-Whitney U,0.8502,
+Delta TS%,"0.013 [-0.006, 0.041] (n=50)","0.021 [-0.003, 0.043] (n=37)",Mann-Whitney U,0.4976,
+Time-to-RTP (log-rank),n=54 (events=49),n=42 (events=40),Log-rank (lifelines),0.0323,cap=180d
+

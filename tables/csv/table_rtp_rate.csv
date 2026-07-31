@@ -1,0 +1,9 @@
+Metric,Value
+n total,115
+n returned to play,103
+RTP rate (%),89.6
+"95% exact binomial CI (Clopper-Pearson, %)",82.5 – 94.5
+"Benchmark (Minhas 2016, %)",98.1
+One-sample exact binomial p-value vs. 98.1%,<0.0001
+Interpretation,Significantly lower than Minhas benchmark
+

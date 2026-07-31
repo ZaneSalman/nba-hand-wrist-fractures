@@ -1,0 +1,22 @@
+stratum_type,outcome,stratum,n,summary,IQR,test,omnibus_p
+Age,RTP (rate),<25,52,100.0% (52),NA,Kruskal-Wallis (3-group),0.0021
+Age,RTP (rate),25-29,40,77.5% (40),NA,Kruskal-Wallis (3-group),0.0021
+Age,RTP (rate),>=30,23,87.0% (23),NA,Kruskal-Wallis (3-group),0.0021
+Age,recovery_days (uncensored),<25,38,33.500,"[18.500, 46.000]",Kruskal-Wallis (3-group),0.5611
+Age,recovery_days (uncensored),25-29,34,34.500,"[28.250, 49.750]",Kruskal-Wallis (3-group),0.5611
+Age,recovery_days (uncensored),>=30,17,35.000,"[21.000, 53.000]",Kruskal-Wallis (3-group),0.5611
+Age,Delta PER,<25,37,2.920,"[0.700, 4.700]",Kruskal-Wallis (3-group),0.0008
+Age,Delta PER,25-29,30,1.275,"[-1.975, 2.275]",Kruskal-Wallis (3-group),0.0008
+Age,Delta PER,>=30,20,-0.550,"[-2.250, 0.950]",Kruskal-Wallis (3-group),0.0008
+Age,Delta TS%,<25,37,0.034,"[0.011, 0.057]",Kruskal-Wallis (3-group),0.0026
+Age,Delta TS%,25-29,30,0.001,"[-0.016, 0.033]",Kruskal-Wallis (3-group),0.0026
+Age,Delta TS%,>=30,20,0.008,"[-0.011, 0.025]",Kruskal-Wallis (3-group),0.0026
+BMI,RTP (rate),<27,104,88.5% (104),NA,Mann-Whitney U (2-group),0.2395
+BMI,RTP (rate),>=27,11,100.0% (11),NA,Mann-Whitney U (2-group),0.2395
+BMI,recovery_days (uncensored),<27,80,34.500,"[23.750, 46.500]",Mann-Whitney U (2-group),0.6729
+BMI,recovery_days (uncensored),>=27,9,34.000,"[27.000, 57.000]",Mann-Whitney U (2-group),0.6729
+BMI,Delta PER,<27,76,1.275,"[-1.025, 3.300]",Mann-Whitney U (2-group),0.6456
+BMI,Delta PER,>=27,11,2.500,"[-3.000, 4.650]",Mann-Whitney U (2-group),0.6456
+BMI,Delta TS%,<27,76,0.018,"[-0.004, 0.041]",Mann-Whitney U (2-group),0.6184
+BMI,Delta TS%,>=27,11,0.011,"[-0.012, 0.046]",Mann-Whitney U (2-group),0.6184
+

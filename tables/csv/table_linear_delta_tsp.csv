@@ -1,0 +1,16 @@
+term,estimate,CI_low,CI_high,p
+Intercept,-0.0388,-0.3603,0.2827,0.8131
+Position_class: big,-0.0199,-0.0561,0.0163,0.2818
+Position_class: wing,-0.0105,-0.0389,0.0179,0.469
+dominance: dominant (w/ frac-cat adj),-0.007,-0.0263,0.0123,0.4752
+fracture_category: other,0.0309,-0.0423,0.1041,0.4076
+fracture_category: phalangeal,0.0107,-0.0187,0.0402,0.4752
+fracture_category: thumb,-0.006,-0.0397,0.0277,0.7259
+fracture_category: unspecified,-0.0139,-0.0667,0.0388,0.6046
+fracture_category: wrist_unspecified,-0.0039,-0.0413,0.0335,0.8389
+Age_at_Injury,0.0071,-0.0032,0.0174,0.1788
+BMI,-0.002,-0.0083,0.0043,0.5349
+Years_Experience,-0.0107,-0.0198,-0.0015,0.0229
+Surgery_bool,-0.0085,-0.0358,0.0188,0.5433
+dominance: dominant (unadjusted for frac-cat),-0.0122,-0.0338,0.0094,0.2697
+

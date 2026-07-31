@@ -1,0 +1,21 @@
+Metric,Value
+Players with >=2 fractures (n),18
+Injuries in multi-fracture subset (n),45
+Consecutive inter-event gaps (n pairs),27
+"Days between events, median [IQR]",658 [IQR 296–1533]
+"Days between events, range (min–max)",0 – 4259
+Hand concordance (match/pairs),11/27
+Hand concordance (%),40.7
+Bone concordance (match/pairs),13/27
+Bone concordance (%),48.1
+Paired delta_per: n players (event 1 & 2),15
+Mean delta_per at event 1 (paired),2.478
+Mean delta_per at event 2 (paired),0.990
+Median delta_per at event 1 (paired),2.200
+Median delta_per at event 2 (paired),1.400
+Mean paired difference (event 2 − event 1),-1.488
+Trajectory direction,worsened on average (mean delta_per lower at event 2)
+Wilcoxon signed-rank (exploratory),"W=36.0, p=0.300 (exploratory)"
+RTP at event 1 (multi-fx subset),16/18 (88.9%)
+RTP at event 2+ (multi-fx subset),24/27 (88.9%)
+

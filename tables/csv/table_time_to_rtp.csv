@@ -1,0 +1,10 @@
+Statistic,Value
+n with known recovery days,89
+n right-censored (rest-of-season),7
+n unknown (excluded from KM),19
+"Median days to RTP (returned, uncensored) [IQR]",34.0 [IQR 22.5–47.0]
+Mean days ± SD (uncensored),39.7 ± 40.6
+KM median days to RTP (95% CI),35.0 (95% CI 31.0–39.0)
+KM 95th-percentile days (time by which 95% returned),244.0
+End-of-season right-censoring cap (days),180
+

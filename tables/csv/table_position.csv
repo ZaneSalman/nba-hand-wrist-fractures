@@ -1,0 +1,14 @@
+outcome,position,n,summary,IQR,KW_omnibus_p
+RTP (rate),big,45,95.6% (45),NA,0.2014
+RTP (rate),guard,51,84.3% (51),NA,0.2014
+RTP (rate),wing,19,89.5% (19),NA,0.2014
+recovery_days (uncensored),big,36,31.000,"[18.000, 49.000]",0.5135
+recovery_days (uncensored),guard,41,37.000,"[27.000, 48.000]",0.5135
+recovery_days (uncensored),wing,12,34.000,"[30.750, 38.000]",0.5135
+Delta PER,big,39,1.400,"[-1.700, 3.650]",0.8840
+Delta PER,guard,33,1.250,"[-0.800, 3.000]",0.8840
+Delta PER,wing,15,2.050,"[-0.850, 4.000]",0.8840
+Delta TS%,big,39,0.003,"[-0.013, 0.042]",0.4510
+Delta TS%,guard,33,0.019,"[-0.003, 0.041]",0.4510
+Delta TS%,wing,15,0.025,"[0.012, 0.042]",0.4510
+

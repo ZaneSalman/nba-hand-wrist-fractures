@@ -1,0 +1,32 @@
+Cohort,n,Analysis,Value,Stat,p
+C1,115,RTP rate (%),89.6 [82.5-94.5],103/115,
+C1,79,Median days to RTP (uncensored),34.0 [IQR 22.5-47.0],,
+C1,87,ΔPER paired test,mean Δ=+1.12,Paired t stat=2.952,0.0041
+C1,87,ΔTS% paired test,mean Δ=+0.018,Wilcoxon stat=931.000,<0.0001
+C1,87,H2 MWU Δ3P% (dom vs non),"median dom=0.000 vs non=0.000 (n_dom=45, n_non=42)",U=980.5,0.7661
+C1,87,H2 MWU ΔTS% (dom vs non),"median dom=0.014 vs non=0.019 (n_dom=45, n_non=42)",U=828.5,0.3244
+C2,88,RTP rate (%),89.8 [81.5-95.2],79/88,
+C2,61,Median days to RTP (uncensored),34.0 [IQR 22.0-48.0],,
+C2,63,ΔPER paired test,mean Δ=+1.35,Paired t stat=2.949,0.0045
+C2,63,ΔTS% paired test,mean Δ=+0.025,Wilcoxon stat=422.500,0.0002
+C2,63,H2 MWU Δ3P% (dom vs non),"median dom=0.000 vs non=0.000 (n_dom=33, n_non=30)",U=516.0,0.7777
+C2,63,H2 MWU ΔTS% (dom vs non),"median dom=0.014 vs non=0.028 (n_dom=33, n_non=30)",U=442.5,0.4742
+C3,110,RTP rate (%),90.0 [82.8-94.9],99/110,
+C3,75,Median days to RTP (uncensored),34.0 [IQR 22.5-46.0],,
+C3,83,ΔPER paired test,mean Δ=+1.03,Paired t stat=2.667,0.0092
+C3,83,ΔTS% paired test,mean Δ=+0.019,Wilcoxon stat=841.000,0.0001
+C3,83,H2 MWU Δ3P% (dom vs non),"median dom=0.000 vs non=0.000 (n_dom=44, n_non=39)",U=893.5,0.7494
+C3,83,H2 MWU ΔTS% (dom vs non),"median dom=0.016 vs non=0.019 (n_dom=44, n_non=39)",U=757.5,0.3615
+C4,97,RTP rate (%),87.6 [79.4-93.4],85/97,
+C4,67,Median days to RTP (uncensored),34.0 [IQR 22.5-49.0],,
+C4,84,ΔPER paired test,mean Δ=+1.05,Paired t stat=2.697,0.0085
+C4,84,ΔTS% paired test,mean Δ=+0.017,Wilcoxon stat=893.000,0.0002
+C4,84,H2 MWU Δ3P% (dom vs non),"median dom=0.000 vs non=0.000 (n_dom=43, n_non=41)",U=910.5,0.7986
+C4,84,H2 MWU ΔTS% (dom vs non),"median dom=0.014 vs non=0.019 (n_dom=43, n_non=41)",U=774.5,0.3405
+Complete-case logistic (n=115),115,Complete-case logistic (n=115): dominance (non_dominant vs dominant),OR=0.70 [95% CI 0.18-2.72],β=-0.360,0.6035
+Complete-case logistic (n=115),115,Complete-case logistic (n=115): Surgery (True vs False),OR=2.39 [95% CI 0.54-10.50],β=+0.870,0.2493
+Complete-case logistic (n=115),115,Complete-case logistic (n=115): fracture_category (phalangeal vs metacarpal),OR=1.24 [95% CI 0.15-10.00],β=+0.218,0.8373
+MICE logistic (n=115),115,MICE logistic (n=115): dominance (non_dominant vs dominant),OR=0.70 [95% CI 0.18-2.72],β=-0.360,0.6035
+MICE logistic (n=115),115,MICE logistic (n=115): Surgery (True vs False),OR=2.39 [95% CI 0.54-10.50],β=+0.870,0.2493
+MICE logistic (n=115),115,MICE logistic (n=115): fracture_category (phalangeal vs metacarpal),OR=1.24 [95% CI 0.15-10.00],β=+0.218,0.8373
+

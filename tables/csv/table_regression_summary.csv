@@ -1,0 +1,6 @@
+Model,n,R2_or_cstat,Key_finding
+Logistic: RTP,115,0.797,"dominance OR=1.522, p=0.4693"
+Linear: delta_per,87,0.217,"dominance (w/ frac-cat) coef=0.112, p=0.8876; unadj coef=0.024, p=0.9746"
+Linear: delta_tsp,87,0.166,"dominance (w/ frac-cat) coef=-0.007, p=0.4752; unadj coef=-0.012, p=0.2697"
+Linear: delta_mp,87,0.275,"dominance (w/ frac-cat) coef=2.176, p=0.1986; unadj coef=1.897, p=0.2187"
+

@@ -1,0 +1,7 @@
+Stratification,n_subgroups,p_logrank,Median_survival_per_group
+CAVEAT,"Proxy analysis: duration=1 if returned, 0 otherwise; event=1. Not multi-season KM. See log.","Proxy analysis: duration=1 if returned, 0 otherwise; event=1. Not multi-season KM. See log.","Proxy analysis: duration=1 if returned, 0 otherwise; event=1. Not multi-season KM. See log."
+Overall (no subgroups),1,,"All: n=115, median=1.00"
+Surgery (surgery vs conservative),2,0.274797,"surgery: n=65, median=1.00; conservative: n=50, median=1.00"
+Dominance (dominant vs non_dominant),2,0.055122,"dominant: n=59, median=1.00; non_dominant: n=56, median=1.00"
+Fracture category (top 4 + 'other'),5,0.93979,"metacarpal: n=45, median=1.00; phalangeal: n=19, median=1.00; thumb: n=19, median=1.00; wrist_unspecified: n=14, median=1.00; other: n=18, median=1.00"
+
