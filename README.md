@@ -1,6 +1,6 @@
 # NBA Hand/Wrist Fracture Study
 
-This private repository contains publication-preparation materials for the NBA hand/wrist fracture study.
+This repository contains publication-safe aggregate materials for the NBA hand/wrist fracture study.
 
 ## Authors
 
