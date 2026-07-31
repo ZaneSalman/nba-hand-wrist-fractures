@@ -2,6 +2,16 @@
 
 This private repository contains publication-preparation materials for the NBA hand/wrist fracture study.
 
+## Authors
+
+- Ryan Zeitouny — Texas A&M University †
+- Rohan Phadke — Baylor College of Medicine †
+- Samer Salman — Baylor College of Medicine †
+- Zane Salman — The University of Texas at Austin †
+- Cristin Mathew — Memorial Hermann Health System
+
+† These authors contributed equally and share first authorship.
+
 ## Current contents
 
 - `tables/NBA_publication_safe_tables.xlsx` — publication-safe aggregate fracture-characteristic and location-subgroup tables.
@@ -12,4 +22,4 @@ This private repository contains publication-preparation materials for the NBA h
 - Location-specific outcome summaries were suppressed when subgroup `n < 5`.
 - Identifiable player-level workbooks and recurrence-detail data are not included.
 
-The repository should remain private until the authors confirm manuscript consistency, institutional requirements, source-data redistribution rights, and journal policies.
+The repository contains aggregate outputs only. Identifiable player-level data are not publicly redistributed.

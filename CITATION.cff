@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use these data, please cite this repository. Ryan Zeitouny, Rohan Phadke, Samer Salman, and Zane Salman contributed equally and share first authorship."
+title: "Aggregate Tables for the NBA Hand/Wrist Fracture Study"
+type: dataset
+version: 1.0.0
+date-released: 2026-07-31
+url: "https://github.com/ZaneSalman/nba-hand-wrist-fractures"
+authors:
+  - family-names: "Zeitouny"
+    given-names: "Ryan"
+    affiliation: "Texas A&M University"
+  - family-names: "Phadke"
+    given-names: "Rohan"
+    affiliation: "Baylor College of Medicine"
+  - family-names: "Salman"
+    given-names: "Samer"
+    affiliation: "Baylor College of Medicine"
+  - family-names: "Salman"
+    given-names: "Zane"
+    affiliation: "The University of Texas at Austin"
+  - family-names: "Mathew"
+    given-names: "Cristin"
+    affiliation: "Memorial Hermann Health System"
